@@ -35,7 +35,7 @@ workflows_keep_keyword=()
 out_log="false"
 
 # Set the API to return 100 results per page
-github_per_page="500"
+github_per_page="1000"
 # Set the maximum limit for API queries to 100 pages
 github_max_page="100"
 
